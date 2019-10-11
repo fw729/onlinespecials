@@ -1,0 +1,16 @@
+body {
+	background-image: url(https://wallpapercave.com/wp/wc1696786.jpg);
+        background-size: 1350px
+
+}
+
+h1:hover{color: red;
+font-size: 350%;
+font-family: fantasy;
+border-bottom: 2PX solid grey;
+border-right: 2px solid grey;
+border-left: 2px solid grey;
+width: 800px;
+text-align: center;
+box-shadow: 4px 4px 4px 4px;
+}
